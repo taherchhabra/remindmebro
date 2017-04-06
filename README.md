@@ -18,6 +18,7 @@ Similarly you can add in the bcc
 * **4months@remindMeBro.com**  (get a reminder after 4 months)  
 * **1year@remindmebro.com**  (get a reminder after a year)  
 
+And its .... FREE !! 
 
 ### Support or Contact
 
