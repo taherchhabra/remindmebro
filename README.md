@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## The Simplest Email Reminder Service
 
-You can use the [editor on GitHub](https://github.com/taherchhabra/remindmebro/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Do you send lot of emails ? 
+Sometimes people are busy and don't reply and you have to remind them.
+Even you are busy and you also forget. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What happens then ? We all know.
 
-### Markdown
+Be proactive, use RemindMeBro and never miss sending a followup email.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It's as simple as adding a 1day@remindmebro.com in the bcc and it will remind you after 1 day to do the followup
 
-```markdown
-Syntax highlighted code block
+Similarly you can add in the bcc
 
-# Header 1
-## Header 2
-### Header 3
+1minute@RemindMeBro.com  ( get a reminder after 1 min )
+2minutes@RemindmeBro.com  ( get a reminder after 2 min )
+3days@remindMeBro.com  ( get a reminder after 3 days )
+10days@remindMeBro.com  ( get a reminder after 10 days )
+1month@remindmebro.com  (get a reminder after 1 month)
+4months@remindMeBro.com  (get a reminder after 4 months )
+1year@remindmebro.com  (get a reminder after a year)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taherchhabra/remindmebro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the service? Contact me at taherchhabra@gmail.com
