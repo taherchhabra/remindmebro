@@ -4,7 +4,7 @@ Do you send lot of emails ?
 Sometimes people are busy and don't reply and you have to remind them.
 Even you are busy and you also forget. 
 
-What happens then ? We all know. 
+What happens then ? We all know.   
 Be proactive, use RemindMeBro and never miss sending a followup email.
 
 It's as simple as adding a 1day@remindmebro.com in the bcc and it will remind you after 1 day to do the followup
